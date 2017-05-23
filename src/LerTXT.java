@@ -43,6 +43,8 @@ public class LerTXT {
 			System.out.println("");
 			System.out.println("");
 			printMatriz(copia2);
+			//System.out.println("");
+			//printMatriz(copia2);
 		
 		} catch (FileNotFoundException ex) {
             System.out.println(ex.getMessage());
